@@ -1,1 +1,1 @@
-# Web5
+npx expo publish
